@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://256Ivaen.github.io/docs-hf4bbq/sitemap.xml
